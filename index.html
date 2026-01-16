@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Traductor-IA</title>
+</head>
+<body>
+    <main class="caixa-maior">
+        <textarea class="input-texto"></textarea>
+
+
+        <section class="controle">
+            <div class="custom-select">
+                <div class="select-header">
+                    <span class="selected-text">Inglês</span>
+                    <span class="dropdown-icon">▼</span>
+                </div>
+                <div class="select-options">
+                    <div class="option" data-value="en">Inglês</div>
+                    <div class="option" data-value="es">Espanhol</div>
+                    <div class="option" data-value="fr">Francês</div>
+                    <div class="option" data-value="de">Alemão</div>
+                    <div class="option" data-value="it">Italiano</div>
+                </div>
+            </div>
+
+            <button onclick="traduzir()">
+                <img src="/asset/language.png" alt="Ícone de tradução">
+            </button>
+            
+            <button>
+                <img src="/asset/ux.png" alt="Ícone de microfone">
+            </button>
+        </section>
+
+       <section class="resultado">
+            <h3 class="titulo-traducao">Tradução:</h3>
+            <p></p>
+       </section>
+            
+
+
+    
+</body>
+
+<script src="/script.js"></script>
+</html>
