@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("/asset/Fondo.jpg");
+    background-image: url("./asset/Fondo.jpg");
     /* IMAGEM DO FUNDO */
     background-size: cover;
     /* TAMANHO DO FUNDO */
