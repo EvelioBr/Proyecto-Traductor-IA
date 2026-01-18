@@ -1,4 +1,4 @@
-# 🌐 Traductor IA <a href= "https://eveliobr.github.io/Proyecto-Traductor-IA/">Proyecto</a>
+# 🌐 <a href="https://eveliobr.github.io/Proyecto-Traductor-IA/">Traductor IA</a>
 
 > Aplicación web de traducción de textos potenciada por Inteligencia Artificial para traducciones precisas y naturales.
 
